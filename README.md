@@ -42,5 +42,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cambridge Epigenetix is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/cambridge-epigenetix_stock/
+Cambridge Epigenetix is the Cambridge, UK genomics and epigenetics company built on the six-base
+genome (the four canonical DNA bases plus 5-methylcytosine and 5-hydroxymethylcytosine, resolved from
+a single low-input sample in one experiment). **The company rebranded to biomodal in 2023.**
+
+> **Duplicate record — survivor: [`biomodal`](https://github.com/api-evangelist/biomodal).**
+> This repository was created from the API Evangelist secondary-market harvest backlog (a Forge Global
+> listing) under the company's *former* name. The same company is already held in the network as
+> `all/biomodal`, which carries the live profile — CLI command surface, domain security, blog archive,
+> screenshots and Kin Score history.
+>
+> `cambridge-epigenetix.com` **301-redirects to `biomodal.com`** (probed 2026-08-09), so there is no
+> independent Cambridge Epigenetix surface left to profile. No API surface is registered here and no
+> artifacts have been generated, so this record does not split one company across two Kin Scores. It is
+> queued for the duplicate-retirement procedure.
+
+- Current company site: https://biomodal.com
+- Developer/software docs: https://software-docs.biomodal.com/en/latest/index.html
+- Secondary-market listing (source of this stub): https://forgeglobal.com/cambridge-epigenetix_stock/
